@@ -1,6 +1,6 @@
 {
   "name": "module-1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "gitHead": "fd2e4daec33a7c0b1da0e8d063395e9a20adfdfa",
   "dependencies": {
     "lodash": "^4.17.20",
-    "module-2": "^0.0.1"
+    "module-2": "^0.0.2"
   }
 }
